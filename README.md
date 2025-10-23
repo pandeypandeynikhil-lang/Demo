@@ -1,3 +1,5 @@
 # Demo
 My first git repository
-Author - Nikhil Pandey
+<br>
+Author : Nikhil Pandey
+
